@@ -4,9 +4,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gustateclogia&bg_color=131112&color=4c9e52&line=38bc48&point=3f413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustateclogia&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Gustateclogia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustateclogia&layout=compact&hide_border=true&title_color=008B8B&text_color=008B8B&bg_color=0d1117" />
+div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustateclogia&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustateclogia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustateclogia&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
